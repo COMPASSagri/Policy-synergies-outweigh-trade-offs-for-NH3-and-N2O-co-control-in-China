@@ -54,16 +54,6 @@ These metrics quantify the agreement between observed and predicted emission fac
 
 - 20% of the dataset is reserved for independent evaluation  
 
-## Data Availability
-
-The training dataset used in this study is partially provided in this repository. Additional data may be made available upon reasonable request, subject to data sharing policies.
-
-## Ethical Considerations
-
-The model highlights the potential of data-driven approaches to improve nitrogen management and reduce NH3 and N2O emissions without necessarily increasing fertilizer inputs. 
-
-However, results should be interpreted carefully to avoid overgeneralization beyond the supported conditions.
-
 ## Caveats and Recommendations
 
 Due to data limitations, several potentially important factors are not explicitly included, such as:
