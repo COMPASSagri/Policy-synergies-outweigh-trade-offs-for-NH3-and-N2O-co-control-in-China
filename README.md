@@ -1,7 +1,7 @@
 # Policy-synergies-outweigh-trade-offs-for-NH3-and-N2O-co-control-in-China
 Code repository for the paper : "Policy synergies outweigh trade-offs for NH3 and N2O co-control in China"
 If you use this code or data, please cite "Policy synergies outweigh trade-offs for NH3 and N2O co-control in China" (Nature Food, in press). 
-For any questions or suggestions, please contact Yixuan Zheng (yxzheng@carnegiescience.edu).
+For any questions or suggestions, please contact Yixuan ZHENG (zhengyx@caep.org.cn).
 
 # Model Card – NH3 and N2O Emission Factors from Cropland
 
